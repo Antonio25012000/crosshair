@@ -1,0 +1,3 @@
+Antivirus: Poiché il file non è firmato digitalmente e utilizza la libreria keyboard (che monitora i tasti), Windows Defender o altri antivirus potrebbero segnalarlo come "falso positivo". Cliccare su "Ulteriori informazioni" -> "Esegui comunque".
+
+Privilegi: Se premendo F10 il programma non si chiude, deve assicurarsi di eseguirlo come amministratore (clic destro sul file -> Esegui come amministratore).
